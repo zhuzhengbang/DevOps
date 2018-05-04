@@ -1,0 +1,10 @@
+1.A data model is a representation of the information content in the real world.
+2.Essentially,a data model serves two purposes: as a communication tool and as a blue-print for constructing the database.
+3.A data model plays a significant role in the data life cycle of an organization.
+4.In an organization, four information levels are discerned; data models are created these levels.
+5.A conceptual data model depicts the information requirements of an organization at the highest general level. Logical and physical data models are repreesentations at the next two lower levels with more intricate details.
+6.A conceptual data model has the following major components or building blocks: objects,attributes,identifiers,and relationships.
+7.The process of data modelling consists of specific modelling steps or activities.
+8.Quality of a data model is of paramount importance.
+9.Data system development life cycle(DDLC) phases:planning,feasibility study,requirements definition,design,implementation and deployment.
+10.Data modeling techniques have evolved and been refined during the past decade.
